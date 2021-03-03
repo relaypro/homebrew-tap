@@ -1,9 +1,9 @@
 class Relay < Formula
   desc "Get started developing Relay Workflows"
-  version "0.0.1"
+  version "0.0.3"
   homepage "https://api-docs.relaypro.com/"
-  url "https://relaygo.link/packages/relay-v0.0.1/relay-v0.0.1.tar.gz"
-  sha256 "556b2764c39cd371444b64fe39ceed9d591eb3fd4c7f9efa1550cebec1af50cc"
+  url "https://relaygo.link/packages/relay-v0.0.3/relay-v0.0.3.tar.gz"
+  sha256 "ec7cca23b5dc9374fb0dc17a3e06cd59967c27026eed4addf31763c570cb748d"
   depends_on "node@14"
 
   def install
