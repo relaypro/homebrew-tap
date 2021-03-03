@@ -1,11 +1,11 @@
-# Relaypro Tap
+# Relay Homebrew Tap
 
-## How do I install these formulae?
+Install the Relay CLI with
 
-`brew install relaypro/tap/<formula>`
+```
+brew install relaypro/tap/relay
+```
 
-Or `brew tap relaypro/tap` and then `brew install <formula>`.
+Or `brew tap relaypro/tap` and then `brew install relay`.
 
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+For more information, visit [https://api-docs.relaypro.com/](http://api-docs.relaypro.com/)
